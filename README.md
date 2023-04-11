@@ -6,6 +6,6 @@ POC that involves overwhelming the IDA program with numerous jumps at the execut
 It's likely that the crash occurred because IDA attempted to analyze the code for the jmp instructions, which can take up to 100 ms. With approximately 20,000 jmps, this amount of processing time can overwhelm IDA and result in a crash.
 
 The diagram delineates the process of its creation:
-https://i.imgur.com/vqv7zda.png
+[image](https://i.imgur.com/vqv7zda.png)
 
 https://streamable.com/syz101
