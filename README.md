@@ -8,4 +8,5 @@ It's likely that the crash occurred because IDA attempted to analyze the code fo
 The diagram delineates the process of its creation:
 ![image](https://user-images.githubusercontent.com/107370797/231252749-1b454d11-0717-4314-b8a9-4201be8b655f.png)
 
-![video](https://streamable.com/syz101)
+https://user-images.githubusercontent.com/107370797/231253036-d2a449b3-9e29-490f-a89f-81ffb3aabf8b.mp4
+
